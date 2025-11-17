@@ -1,0 +1,2630 @@
+{
+  "name": "ATH Framework",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Data Recovery",
+      "type": "folder",
+      "children": [
+        {
+          "name": "PhotoRec (Free - Unlimited)  9.6",
+          "type": "url",
+          "url": "https://www.cgsecurity.org/wiki/PhotoRec"
+        },
+        {
+          "name": "R-Studio (Paid - Professional)  9.4",
+          "type": "url",
+          "url": "https://www.r-studio.com/"
+        },
+        {
+          "name": "EaseUS Data Recovery (Freemium - 2 GB)  9.2",
+          "type": "url",
+          "url": "https://www.easeus.com/datarecoverywizard/"
+        },
+        {
+          "name": "Disk Drill (Freemium - 500 MB)  9.0",
+          "type": "url",
+          "url": "https://www.cleverfiles.com/"
+        },
+        {
+          "name": "GetDataBack Pro (Paid - Speed + Precision)  8.9",
+          "type": "url",
+          "url": "https://www.runtime.org/data-recovery-software.htm"
+        },
+        {
+          "name": "Stellar Data Recovery (Freemium - Preview only)  8.7",
+          "type": "url",
+          "url": "https://www.stellarinfo.com/windows-data-recovery.php"
+        },
+        {
+          "name": "MiniTool Power Data Recovery (Freemium - 1 GB)  8.6",
+          "type": "url",
+          "url": "https://www.minitool.com/data-recovery-software/power-data-recovery.html"
+        },
+        {
+          "name": "Puran File Recovery (Free - Unlimited)  8.5",
+          "type": "url",
+          "url": "https://www.puransoftware.com/File-Recovery.html"
+        },
+        {
+          "name": "Recuva (Free - Unlimited)  8.3",
+          "type": "url",
+          "url": "https://www.ccleaner.com/recuva"
+        },
+        {
+          "name": "Glary Undelete (Free - Unlimited)  8.1",
+          "type": "url",
+          "url": "https://www.glarysoft.com/glary-undelete/"
+        },
+        {
+          "name": "Kickass Undelete (Free - Unlimited)  7.9",
+          "type": "url",
+          "url": "https://kickassundelete.sourceforge.net/"
+        },
+        {
+          "name": "Windows File Recovery (Free - Unlimited)  7.8",
+          "type": "url",
+          "url": "https://support.microsoft.com/en-us/windows/recover-lost-files-on-windows-10-fd483dab-8c11-bc6d-68fd-663bebaba840"
+        },
+        {
+          "name": "Wondershare Recoverit (Freemium - 100 MB)  7.7",
+          "type": "url",
+          "url": "https://recoverit.wondershare.com/"
+        },
+        {
+          "name": "iCare Data Recovery (Free - Unlimited)  7.4",
+          "type": "url",
+          "url": "https://www.icare-recovery.com/"
+        },
+        {
+          "name": "Wise Data Recovery (Free - Unlimited)  7.2",
+          "type": "url",
+          "url": "https://www.wisecleaner.com/wise-data-recovery.html"
+        }
+      ]
+    },
+    {
+      "name": "AI/ML Resources",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Free Websites to Learn ML",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Polo Club - AI Fundamentals from Scratch (HIGHLY RECOMMENDED)",
+              "type": "url",
+              "url": "https://polo-club.github.io/ai-fundamentals/"
+            },
+            {
+              "name": "AI by Hand - Understanding Architectures (HIGHLY RECOMMENDED)",
+              "type": "url",
+              "url": "https://www.aibyhand.com/"
+            },
+            {
+              "name": "Hugging Face Documentation",
+              "type": "url",
+              "url": "https://huggingface.co/docs"
+            },
+            {
+              "name": "ML MASTERY",
+              "type": "url",
+              "url": "https://machinelearningmastery.com/"
+            },
+            {
+              "name": "3Blue1Brown - Math & AI Fundamentals (VISUAL MATH AND AI CONCEPTS)",
+              "type": "url",
+              "url": "https://www.3blue1brown.com/"
+            },
+            {
+              "name": "TensorFlow Official Website",
+              "type": "url",
+              "url": "https://www.tensorflow.org/"
+            },
+            {
+              "name": "Learn PyTorch (HIGHLY RECOMMENDED)",
+              "type": "url",
+              "url": "https://pytorch.org/learn"
+            },
+            {
+              "name": "freeCodeCamp",
+              "type": "url",
+              "url": "https://www.freecodecamp.org"
+            },
+            {
+              "name": "Linear Algebra Visualization (VISUAL MATH)",
+              "type": "url",
+              "url": "https://www.3blue1brown.com/topics/linear-algebra"
+            }
+          ]
+        },
+        {
+          "name": "Neural Networks (NN)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Neural Networks and Deep Learning",
+              "type": "url",
+              "url": "http://neuralnetworksanddeeplearning.com/"
+            },
+            {
+              "name": "Fast.ai - Neural Networks",
+              "type": "url",
+              "url": "https://www.fast.ai/"
+            },
+            {
+              "name": "AI Courses - Thinkific",
+              "type": "url",
+              "url": "https://www.thinkific.com/"
+            }
+          ]
+        },
+        {
+          "name": "Deep Learning (DL)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Deep Learning - Substack",
+              "type": "url",
+              "url": "https://substack.com/"
+            },
+            {
+              "name": "Deep Learning with Python - GitHub",
+              "type": "url",
+              "url": "https://github.com/fchollet/deep-learning-with-python-notebooks"
+            },
+            {
+              "name": "Deep Learning for Computer Vision - YouTube Playlist",
+              "type": "url",
+              "url": "https://www.youtube.com/results?search_query=deep+learning+computer+vision"
+            }
+          ]
+        },
+        {
+          "name": "Machine Learning (ML) & Frameworks   ",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Awesome Machine Learning Visualizations",
+              "type": "url",
+              "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+            }
+          ]
+        },
+        {
+          "name": "Large Language Models (LLM)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Hands-On Large Language Models",
+              "type": "url",
+              "url": "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/"
+            },
+            {
+              "name": "YouTube Playlist on LLMs",
+              "type": "url",
+              "url": "https://www.youtube.com/results?search_query=large+language+models+tutorial"
+            },
+            {
+              "name": "Stanford CS229 - Building Large Language Models (LLMs)",
+              "type": "url",
+              "url": "https://cs229.stanford.edu/"
+            },
+            {
+              "name": "Understanding LLMs from Scratch - Towards Data Science",
+              "type": "url",
+              "url": "https://towardsdatascience.com/"
+            },
+            {
+              "name": "LLM Tutorial - GitHub",
+              "type": "url",
+              "url": "https://github.com/topics/large-language-models"
+            }
+          ]
+        },
+        {
+          "name": "Reinforcement Learning (RL)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Reinforcement Learning Research Paper",
+              "type": "url",
+              "url": "https://arxiv.org/list/cs.LG/recent"
+            }
+          ]
+        },
+        {
+          "name": "Generative Adversarial Networks (GANs)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "GANs - GitHub",
+              "type": "url",
+              "url": "https://github.com/topics/generative-adversarial-network"
+            }
+          ]
+        },
+        {
+          "name": "Cohere LLM University (BEST PLACE TO LEARN RAG)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Cohere RAG",
+              "type": "url",
+              "url": "https://docs.cohere.com/docs/retrieval-augmented-generation"
+            }
+          ]
+        },
+        {
+          "name": "Language Vision Models (LVM)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Introducing Large Vision Models",
+              "type": "url",
+              "url": "https://arxiv.org/list/cs.CV/recent"
+            }
+          ]
+        },
+        {
+          "name": "Fine-Tuning and Embeddings",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Fine-Tuning Embedding Models - Marqo AI",
+              "type": "url",
+              "url": "https://www.marqo.ai/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Work & Projects",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Project Management",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Trello",
+              "type": "url",
+              "url": "https://trello.com"
+            },
+            {
+              "name": "Asana",
+              "type": "url",
+              "url": "https://asana.com"
+            },
+            {
+              "name": "Notion",
+              "type": "url",
+              "url": "https://www.notion.so"
+            }
+          ]
+        },
+        {
+          "name": "Code Repositories",
+          "type": "folder",
+          "children": [
+            {
+              "name": "GitHub",
+              "type": "url",
+              "url": "https://github.com"
+            },
+            {
+              "name": "GitLab",
+              "type": "url",
+              "url": "https://gitlab.com"
+            }
+          ]
+        },
+        {
+          "name": "Projects",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Tier 1 - Highest Impact",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "1. Threat Model Studio - AI-Powered Threat Modeling from Natural Language (DSPy)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "2. Cloud Security Auditor (Terraform + AWS + DSPy Code Fixer)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "3. DSPy Visual Workflow Builder for n8n (Auto-Generate Workflows)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "4. Machine Learning on Acoustic Signatures",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "5. Engineering Maths Solver (Structured DSPy Pipelines)",
+                  "type": "url",
+                  "url": "#"
+                }
+              ]
+            },
+            {
+              "name": "Tier 2 - Strong, Practical, Professional",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "6. Automated Threat Intelligence Dashboard (OSINT)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "7. PDF Question Repetition Detector (DSPy + OCR)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "8. n8n-Based Automotive Diagnostics Workflow Engine",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "9. Microphone Array-Based Sound Localization",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "10. AI-Driven Travel Booking Chatbot (Flight Pricing Engine)",
+                  "type": "url",
+                  "url": "#"
+                }
+              ]
+            },
+            {
+              "name": "Tier 3 - Medium Impact",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "11. Smart Study Notes (AI PDF Highlighter + Question Generator)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "12. Startup Job Aggregator + Google Sheets Auto-Push",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "13. Resume Parser + Skill Gap Analyzer",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "14. Productivity App (React Native)",
+                  "type": "url",
+                  "url": "#"
+                }
+              ]
+            },
+            {
+              "name": "Tier 4 - Simple, Clean, Small Projects",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "15. Secure AWS VPC Deployment using Terraform",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "16. Hardened EC2 Deployment (Terraform + GitHub Actions)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "17. S3 + CloudFront + WAF Terraform Project",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "18. IAM Zero-Trust Access Setup",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "19. AWS Root Login Alert System (CloudTrail + Lambda)",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "20. DSPy Debugger (Self-Improving Code Fixer)",
+                  "type": "url",
+                  "url": "#"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Learning & Resources",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Online Courses",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Coursera",
+              "type": "url",
+              "url": "https://coursera.org"
+            },
+            {
+              "name": "Udemy",
+              "type": "url",
+              "url": "https://udemy.com"
+            },
+            {
+              "name": "Khan Academy",
+              "type": "url",
+              "url": "https://khanacademy.org"
+            }
+          ]
+        },
+        {
+          "name": "Documentation",
+          "type": "folder",
+          "children": [
+            {
+              "name": "MDN Web Docs",
+              "type": "url",
+              "url": "https://developer.mozilla.org"
+            },
+            {
+              "name": "Stack Overflow",
+              "type": "url",
+              "url": "https://stackoverflow.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ATH Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Productivity",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Google Drive",
+              "type": "url",
+              "url": "https://drive.google.com"
+            },
+            {
+              "name": "Dropbox",
+              "type": "url",
+              "url": "https://dropbox.com"
+            }
+          ]
+        },
+        {
+          "name": "Communication",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Gmail",
+              "type": "url",
+              "url": "https://gmail.com"
+            },
+            {
+              "name": "Slack",
+              "type": "url",
+              "url": "https://slack.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security & Cybersecurity",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Penetration Testing Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Burp Suite",
+              "type": "url",
+              "url": "https://portswigger.net/burp"
+            },
+            {
+              "name": "Nmap",
+              "type": "url",
+              "url": "https://nmap.org/"
+            },
+            {
+              "name": "Metasploit Framework",
+              "type": "url",
+              "url": "https://www.metasploit.com/"
+            },
+            {
+              "name": "Nikto",
+              "type": "url",
+              "url": "https://github.com/sullo/nikto"
+            },
+            {
+              "name": "OWASP ZAP",
+              "type": "url",
+              "url": "https://www.zaproxy.org/"
+            },
+            {
+              "name": "SQLMap",
+              "type": "url",
+              "url": "https://sqlmap.org/"
+            },
+            {
+              "name": "Responder",
+              "type": "url",
+              "url": "https://github.com/lgandx/Responder"
+            },
+            {
+              "name": "BloodHound + Sharphound",
+              "type": "url",
+              "url": "https://bloodhound.readthedocs.io/"
+            }
+          ]
+        },
+        {
+          "name": "Bug Bounty Platforms",
+          "type": "folder",
+          "children": [
+            {
+              "name": "HackerOne",
+              "type": "url",
+              "url": "https://www.hackerone.com/"
+            },
+            {
+              "name": "Bugcrowd",
+              "type": "url",
+              "url": "https://www.bugcrowd.com/"
+            },
+            {
+              "name": "Intigriti",
+              "type": "url",
+              "url": "https://www.intigriti.com/"
+            },
+            {
+              "name": "YesWeHack",
+              "type": "url",
+              "url": "https://www.yeswehack.com/"
+            },
+            {
+              "name": "HackenProof",
+              "type": "url",
+              "url": "https://hackenproof.com/"
+            }
+          ]
+        },
+        {
+          "name": "Security Frameworks",
+          "type": "folder",
+          "children": [
+            {
+              "name": "OWASP Top 10 / ASVS",
+              "type": "url",
+              "url": "https://owasp.org/"
+            },
+            {
+              "name": "NIST CSF",
+              "type": "url",
+              "url": "https://www.nist.gov/cyberframework"
+            },
+            {
+              "name": "MITRE ATT&CK",
+              "type": "url",
+              "url": "https://attack.mitre.org/"
+            },
+            {
+              "name": "CIS Benchmarks",
+              "type": "url",
+              "url": "https://www.cisecurity.org/cis-benchmarks"
+            }
+          ]
+        },
+        {
+          "name": "Vulnerability Scanners",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Nessus",
+              "type": "url",
+              "url": "https://www.tenable.com/products/nessus"
+            },
+            {
+              "name": "OpenVAS",
+              "type": "url",
+              "url": "https://www.openvas.org/"
+            },
+            {
+              "name": "Qualys",
+              "type": "url",
+              "url": "https://www.qualys.com/"
+            },
+            {
+              "name": "Acunetix",
+              "type": "url",
+              "url": "https://www.acunetix.com/"
+            },
+            {
+              "name": "Snyk",
+              "type": "url",
+              "url": "https://snyk.io/"
+            }
+          ]
+        },
+        {
+          "name": "Security Research Papers",
+          "type": "folder",
+          "children": [
+            {
+              "name": "arXiv Security Section",
+              "type": "url",
+              "url": "https://arxiv.org/list/cs.CR/recent"
+            },
+            {
+              "name": "IEEE Security & Privacy",
+              "type": "url",
+              "url": "https://www.computer.org/csdl/journal/sp/2024/01"
+            },
+            {
+              "name": "USENIX Security",
+              "type": "url",
+              "url": "https://www.usenix.org/conferences"
+            },
+            {
+              "name": "BlackHat / DEF CON Archives",
+              "type": "url",
+              "url": "https://www.blackhat.com/html/archives.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "OSINT Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "OSINT Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Maltego",
+              "type": "url",
+              "url": "https://www.maltego.com/"
+            },
+            {
+              "name": "SpiderFoot",
+              "type": "url",
+              "url": "https://www.spiderfoot.net/"
+            },
+            {
+              "name": "Recon-ng",
+              "type": "url",
+              "url": "https://github.com/lanmaster53/recon-ng"
+            },
+            {
+              "name": "theHarvester",
+              "type": "url",
+              "url": "https://github.com/laramies/theHarvester"
+            },
+            {
+              "name": "Shodan",
+              "type": "url",
+              "url": "https://www.shodan.io/"
+            },
+            {
+              "name": "Censys",
+              "type": "url",
+              "url": "https://search.censys.io/"
+            }
+          ]
+        },
+        {
+          "name": "Social Media Intelligence",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Social Analyzer",
+              "type": "url",
+              "url": "https://github.com/qeeqbox/social-analyzer"
+            },
+            {
+              "name": "TweetBeaver",
+              "type": "url",
+              "url": "https://tweetbeaver.com/"
+            },
+            {
+              "name": "Spoonbill.io",
+              "type": "url",
+              "url": "https://spoonbill.io/"
+            },
+            {
+              "name": "Hoaxy",
+              "type": "url",
+              "url": "https://hoaxy.iuni.iu.edu/"
+            },
+            {
+              "name": "OSINT Combine Tools",
+              "type": "url",
+              "url": "https://www.osintcombine.com/"
+            }
+          ]
+        },
+        {
+          "name": "Domain & IP Investigation",
+          "type": "folder",
+          "children": [
+            {
+              "name": "WHOIS (ICANN)",
+              "type": "url",
+              "url": "https://whois.icann.org/"
+            },
+            {
+              "name": "VirusTotal",
+              "type": "url",
+              "url": "https://www.virustotal.com/"
+            },
+            {
+              "name": "RiskIQ / PassiveTotal",
+              "type": "url",
+              "url": "https://community.riskiq.com/"
+            },
+            {
+              "name": "SecurityTrails",
+              "type": "url",
+              "url": "https://securitytrails.com/"
+            },
+            {
+              "name": "CentralOps",
+              "type": "url",
+              "url": "https://centralops.net/"
+            }
+          ]
+        },
+        {
+          "name": "Image & Reverse Image Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Google Lens",
+              "type": "url",
+              "url": "https://lens.google.com/"
+            },
+            {
+              "name": "Yandex Image Search",
+              "type": "url",
+              "url": "https://yandex.com/images/"
+            },
+            {
+              "name": "TinEye",
+              "type": "url",
+              "url": "https://tineye.com/"
+            },
+            {
+              "name": "ExifTool",
+              "type": "url",
+              "url": "https://exiftool.org/"
+            }
+          ]
+        },
+        {
+          "name": "Metadata Extractors",
+          "type": "folder",
+          "children": [
+            {
+              "name": "ExifTool",
+              "type": "url",
+              "url": "https://exiftool.org/"
+            },
+            {
+              "name": "Metadata2Go",
+              "type": "url",
+              "url": "https://www.metadata2go.com/"
+            },
+            {
+              "name": "FOCA",
+              "type": "url",
+              "url": "https://www.elevenpaths.com/labstools/foca/index.html"
+            }
+          ]
+        },
+        {
+          "name": "Public Records & Databases",
+          "type": "folder",
+          "children": [
+            {
+              "name": "HaveIBeenPwned",
+              "type": "url",
+              "url": "https://haveibeenpwned.com/"
+            },
+            {
+              "name": "OpenCorporates",
+              "type": "url",
+              "url": "https://opencorporates.com/"
+            },
+            {
+              "name": "Wayback Machine",
+              "type": "url",
+              "url": "https://web.archive.org/"
+            },
+            {
+              "name": "Data.gov",
+              "type": "url",
+              "url": "https://data.gov/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud Platforms & Infra",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AWS Services & Documentation",
+          "type": "folder",
+          "children": [
+            {
+              "name": "AWS Well-Architected",
+              "type": "url",
+              "url": "https://aws.amazon.com/architecture/well-architected/"
+            },
+            {
+              "name": "AWS Security Hub",
+              "type": "url",
+              "url": "https://aws.amazon.com/security-hub/"
+            },
+            {
+              "name": "AWS IAM Access Analyzer",
+              "type": "url",
+              "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html"
+            },
+            {
+              "name": "AWS CloudTrail / GuardDuty",
+              "type": "url",
+              "url": "https://aws.amazon.com/guardduty/"
+            },
+            {
+              "name": "AWS Config",
+              "type": "url",
+              "url": "https://aws.amazon.com/config/"
+            }
+          ]
+        },
+        {
+          "name": "Terraform Resources",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Terraform Registry",
+              "type": "url",
+              "url": "https://registry.terraform.io/"
+            },
+            {
+              "name": "Gruntwork IaC Library",
+              "type": "url",
+              "url": "https://www.gruntwork.io/"
+            },
+            {
+              "name": "Terrascan",
+              "type": "url",
+              "url": "https://github.com/tenable/terrascan"
+            },
+            {
+              "name": "tflint",
+              "type": "url",
+              "url": "https://github.com/terraform-linters/tflint"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Security Best Practices",
+          "type": "folder",
+          "children": [
+            {
+              "name": "CIS AWS Benchmark",
+              "type": "url",
+              "url": "https://www.cisecurity.org/benchmark/amazon_web_services"
+            },
+            {
+              "name": "Prowler",
+              "type": "url",
+              "url": "https://github.com/prowler-cloud/prowler"
+            },
+            {
+              "name": "ScoutSuite",
+              "type": "url",
+              "url": "https://github.com/nccgroup/ScoutSuite"
+            }
+          ]
+        },
+        {
+          "name": "Infrastructure as Code (IaC)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Terraform",
+              "type": "url",
+              "url": "https://www.terraform.io/"
+            },
+            {
+              "name": "Pulumi",
+              "type": "url",
+              "url": "https://www.pulumi.com/"
+            },
+            {
+              "name": "Ansible",
+              "type": "url",
+              "url": "https://www.ansible.com/"
+            },
+            {
+              "name": "Crossplane",
+              "type": "url",
+              "url": "https://crossplane.io/"
+            }
+          ]
+        },
+        {
+          "name": "Multi-Cloud Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Terraform",
+              "type": "url",
+              "url": "https://www.terraform.io/"
+            },
+            {
+              "name": "Pulumi",
+              "type": "url",
+              "url": "https://www.pulumi.com/"
+            },
+            {
+              "name": "Ansible",
+              "type": "url",
+              "url": "https://www.ansible.com/"
+            },
+            {
+              "name": "Crossplane",
+              "type": "url",
+              "url": "https://crossplane.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DevOps & CI/CD",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GitHub Actions",
+          "type": "folder",
+          "children": [
+            {
+              "name": "GitHub Marketplace Actions",
+              "type": "url",
+              "url": "https://github.com/marketplace?type=actions"
+            },
+            {
+              "name": "Dependabot",
+              "type": "url",
+              "url": "https://docs.github.com/en/code-security/dependabot"
+            },
+            {
+              "name": "Actions Security Scanner",
+              "type": "url",
+              "url": "https://github.com/features/security"
+            }
+          ]
+        },
+        {
+          "name": "Docker & Containers",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "url",
+              "url": "https://www.docker.com/"
+            },
+            {
+              "name": "Docker Compose",
+              "type": "url",
+              "url": "https://docs.docker.com/compose/"
+            },
+            {
+              "name": "Trivy",
+              "type": "url",
+              "url": "https://github.com/aquasecurity/trivy"
+            },
+            {
+              "name": "Dive",
+              "type": "url",
+              "url": "https://github.com/wagoodman/dive"
+            }
+          ]
+        },
+        {
+          "name": "Kubernetes",
+          "type": "folder",
+          "children": [
+            {
+              "name": "kubectl",
+              "type": "url",
+              "url": "https://kubernetes.io/docs/reference/kubectl/"
+            },
+            {
+              "name": "k9s",
+              "type": "url",
+              "url": "https://k9scli.io/"
+            },
+            {
+              "name": "Lens",
+              "type": "url",
+              "url": "https://k8slens.dev/"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "url",
+              "url": "https://argo-cd.readthedocs.io/"
+            },
+            {
+              "name": "KEDA",
+              "type": "url",
+              "url": "https://keda.sh/"
+            }
+          ]
+        },
+        {
+          "name": "Monitoring & Logging",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Prometheus + Grafana",
+              "type": "url",
+              "url": "https://prometheus.io/"
+            },
+            {
+              "name": "ELK / OpenSearch",
+              "type": "url",
+              "url": "https://www.elastic.co/elk-stack"
+            },
+            {
+              "name": "Loki",
+              "type": "url",
+              "url": "https://grafana.com/oss/loki/"
+            },
+            {
+              "name": "Jaeger",
+              "type": "url",
+              "url": "https://www.jaegertracing.io/"
+            },
+            {
+              "name": "Datadog",
+              "type": "url",
+              "url": "https://www.datadoghq.com/"
+            }
+          ]
+        },
+        {
+          "name": "Infrastructure Monitoring",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Zabbix",
+              "type": "url",
+              "url": "https://www.zabbix.com/"
+            },
+            {
+              "name": "Nagios",
+              "type": "url",
+              "url": "https://www.nagios.org/"
+            },
+            {
+              "name": "Netdata",
+              "type": "url",
+              "url": "https://www.netdata.cloud/"
+            },
+            {
+              "name": "Uptime Kuma",
+              "type": "url",
+              "url": "https://github.com/louislam/uptime-kuma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "IDEs & Code Editors",
+          "type": "folder",
+          "children": [
+            {
+              "name": "VS Code",
+              "type": "url",
+              "url": "https://code.visualstudio.com/"
+            },
+            {
+              "name": "JetBrains (PyCharm, IntelliJ)",
+              "type": "url",
+              "url": "https://www.jetbrains.com/"
+            }
+          ]
+        },
+        {
+          "name": "API Testing Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Postman",
+              "type": "url",
+              "url": "https://www.postman.com/"
+            },
+            {
+              "name": "Insomnia",
+              "type": "url",
+              "url": "https://insomnia.rest/"
+            },
+            {
+              "name": "Hoppscotch",
+              "type": "url",
+              "url": "https://hoppscotch.io/"
+            }
+          ]
+        },
+        {
+          "name": "Database Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "DBeaver",
+              "type": "url",
+              "url": "https://dbeaver.io/"
+            },
+            {
+              "name": "TablePlus",
+              "type": "url",
+              "url": "https://tableplus.com/"
+            },
+            {
+              "name": "pgAdmin",
+              "type": "url",
+              "url": "https://www.pgadmin.org/"
+            },
+            {
+              "name": "Mongo Compass",
+              "type": "url",
+              "url": "https://www.mongodb.com/products/compass"
+            }
+          ]
+        },
+        {
+          "name": "Version Control Extensions",
+          "type": "folder",
+          "children": [
+            {
+              "name": "GitLens (VS Code)",
+              "type": "url",
+              "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+            },
+            {
+              "name": "GitKraken",
+              "type": "url",
+              "url": "https://www.gitkraken.com/"
+            }
+          ]
+        },
+        {
+          "name": "Code Quality & Linting",
+          "type": "folder",
+          "children": [
+            {
+              "name": "SonarQube",
+              "type": "url",
+              "url": "https://www.sonarqube.org/"
+            },
+            {
+              "name": "ESLint / Prettier",
+              "type": "url",
+              "url": "https://eslint.org/"
+            },
+            {
+              "name": "Bandit (Python security)",
+              "type": "url",
+              "url": "https://bandit.readthedocs.io/"
+            },
+            {
+              "name": "Semgrep",
+              "type": "url",
+              "url": "https://semgrep.dev/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APIs & Integrations",
+      "type": "folder",
+      "children": [
+        {
+          "name": "API Documentation",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Swagger / OpenAPI",
+              "type": "url",
+              "url": "https://swagger.io/specification/"
+            },
+            {
+              "name": "Redoc",
+              "type": "url",
+              "url": "https://github.com/Redocly/redoc"
+            }
+          ]
+        },
+        {
+          "name": "Webhook Testing",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Webhook.site",
+              "type": "url",
+              "url": "https://webhook.site/"
+            },
+            {
+              "name": "Ngrok",
+              "type": "url",
+              "url": "https://ngrok.com/"
+            },
+            {
+              "name": "LocalTunnel",
+              "type": "url",
+              "url": "https://github.com/localtunnel/localtunnel"
+            }
+          ]
+        },
+        {
+          "name": "API Design Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Stoplight",
+              "type": "url",
+              "url": "https://stoplight.io/"
+            },
+            {
+              "name": "Postman API Builder",
+              "type": "url",
+              "url": "https://www.postman.com/api-platform/api-builder/"
+            }
+          ]
+        },
+        {
+          "name": "Integration Platforms",
+          "type": "folder",
+          "children": [
+            {
+              "name": "n8n",
+              "type": "url",
+              "url": "https://n8n.io/"
+            },
+            {
+              "name": "Zapier",
+              "type": "url",
+              "url": "https://zapier.com/"
+            },
+            {
+              "name": "Make.com",
+              "type": "url",
+              "url": "https://www.make.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing & Quality Assurance",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Unit Testing",
+          "type": "folder",
+          "children": [
+            {
+              "name": "PyTest",
+              "type": "url",
+              "url": "https://docs.pytest.org/"
+            },
+            {
+              "name": "Jest",
+              "type": "url",
+              "url": "https://jestjs.io/"
+            },
+            {
+              "name": "JUnit",
+              "type": "url",
+              "url": "https://junit.org/junit5/"
+            },
+            {
+              "name": "GoTest",
+              "type": "url",
+              "url": "https://pkg.go.dev/testing"
+            }
+          ]
+        },
+        {
+          "name": "Security Testing",
+          "type": "folder",
+          "children": [
+            {
+              "name": "ZAP",
+              "type": "url",
+              "url": "https://www.zaproxy.org/"
+            },
+            {
+              "name": "OWASP Dependency-Check",
+              "type": "url",
+              "url": "https://owasp.org/www-project-dependency-check/"
+            },
+            {
+              "name": "Trivy (SBOM)",
+              "type": "url",
+              "url": "https://github.com/aquasecurity/trivy"
+            }
+          ]
+        },
+        {
+          "name": "Performance Testing",
+          "type": "folder",
+          "children": [
+            {
+              "name": "JMeter",
+              "type": "url",
+              "url": "https://jmeter.apache.org/"
+            },
+            {
+              "name": "k6",
+              "type": "url",
+              "url": "https://k6.io/"
+            }
+          ]
+        },
+        {
+          "name": "Test Automation",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Selenium",
+              "type": "url",
+              "url": "https://www.selenium.dev/"
+            },
+            {
+              "name": "Playwright",
+              "type": "url",
+              "url": "https://playwright.dev/"
+            },
+            {
+              "name": "Cypress",
+              "type": "url",
+              "url": "https://www.cypress.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cryptography & Encryption",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Encryption Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "OpenSSL",
+              "type": "url",
+              "url": "https://www.openssl.org/"
+            },
+            {
+              "name": "GPG",
+              "type": "url",
+              "url": "https://gnupg.org/"
+            },
+            {
+              "name": "Age",
+              "type": "url",
+              "url": "https://github.com/FiloSottile/age"
+            }
+          ]
+        },
+        {
+          "name": "Hash Generators",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Hashcat",
+              "type": "url",
+              "url": "https://hashcat.net/hashcat/"
+            },
+            {
+              "name": "CyberChef",
+              "type": "url",
+              "url": "https://gchq.github.io/CyberChef/"
+            }
+          ]
+        },
+        {
+          "name": "SSL/TLS Resources",
+          "type": "folder",
+          "children": [
+            {
+              "name": "SSL Labs",
+              "type": "url",
+              "url": "https://www.ssllabs.com/"
+            },
+            {
+              "name": "mkcert",
+              "type": "url",
+              "url": "https://github.com/FiloSottile/mkcert"
+            }
+          ]
+        },
+        {
+          "name": "Crypto Libraries",
+          "type": "folder",
+          "children": [
+            {
+              "name": "PyCryptodome",
+              "type": "url",
+              "url": "https://www.pycryptodome.org/"
+            },
+            {
+              "name": "libsodium",
+              "type": "url",
+              "url": "https://libsodium.org/"
+            },
+            {
+              "name": "BoringSSL",
+              "type": "url",
+              "url": "https://github.com/google/boringssl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Research & Academic",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Paper Databases",
+          "type": "folder",
+          "children": [
+            {
+              "name": "arXiv",
+              "type": "url",
+              "url": "https://arxiv.org/"
+            },
+            {
+              "name": "Google Scholar",
+              "type": "url",
+              "url": "https://scholar.google.com/"
+            },
+            {
+              "name": "Semantic Scholar",
+              "type": "url",
+              "url": "https://www.semanticscholar.org/"
+            }
+          ]
+        },
+        {
+          "name": "Academic Journals",
+          "type": "folder",
+          "children": [
+            {
+              "name": "IEEE Xplore",
+              "type": "url",
+              "url": "https://ieeexplore.ieee.org/"
+            },
+            {
+              "name": "ACM Digital Library",
+              "type": "url",
+              "url": "https://dl.acm.org/"
+            }
+          ]
+        },
+        {
+          "name": "Conference Proceedings",
+          "type": "folder",
+          "children": [
+            {
+              "name": "USENIX",
+              "type": "url",
+              "url": "https://www.usenix.org/"
+            },
+            {
+              "name": "BlackHat",
+              "type": "url",
+              "url": "https://www.blackhat.com/"
+            },
+            {
+              "name": "RSA Conference",
+              "type": "url",
+              "url": "https://www.rsaconference.com/"
+            }
+          ]
+        },
+        {
+          "name": "Citation Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Zotero",
+              "type": "url",
+              "url": "https://www.zotero.org/"
+            },
+            {
+              "name": "Mendeley",
+              "type": "url",
+              "url": "https://www.mendeley.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Data Visualization",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Grafana",
+              "type": "url",
+              "url": "https://grafana.com/"
+            },
+            {
+              "name": "Tableau",
+              "type": "url",
+              "url": "https://www.tableau.com/"
+            },
+            {
+              "name": "PowerBI",
+              "type": "url",
+              "url": "https://powerbi.microsoft.com/"
+            }
+          ]
+        },
+        {
+          "name": "Statistical Analysis",
+          "type": "folder",
+          "children": [
+            {
+              "name": "R",
+              "type": "url",
+              "url": "https://www.r-project.org/"
+            },
+            {
+              "name": "Python (NumPy, SciPy, Pandas)",
+              "type": "url",
+              "url": "https://scipy.org/"
+            }
+          ]
+        },
+        {
+          "name": "Notebooks",
+          "type": "folder",
+          "children": [
+            {
+              "name": "JupyterLab",
+              "type": "url",
+              "url": "https://jupyterlab.readthedocs.io/"
+            },
+            {
+              "name": "Colab",
+              "type": "url",
+              "url": "https://colab.research.google.com/"
+            }
+          ]
+        },
+        {
+          "name": "Data Processing",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Apache Spark",
+              "type": "url",
+              "url": "https://spark.apache.org/"
+            },
+            {
+              "name": "Dask",
+              "type": "url",
+              "url": "https://www.dask.org/"
+            },
+            {
+              "name": "Airflow",
+              "type": "url",
+              "url": "https://airflow.apache.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Downloading",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Windows-Based (Desktop)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Core Tools",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "YT-DLP (CLI)",
+                  "type": "url",
+                  "url": "https://github.com/yt-dlp/yt-dlp"
+                },
+                {
+                  "name": "MediaHarbor (GUI for YT-DLP)",
+                  "type": "url",
+                  "url": "https://github.com/MediaHarbor/MediaHarbor"
+                },
+                {
+                  "name": "Vivia (yt-dlp GUI)",
+                  "type": "url",
+                  "url": "https://vivia.app/"
+                },
+                {
+                  "name": "YTDLP-UI",
+                  "type": "url",
+                  "url": "https://github.com/Sekiat/YTDLP_UI"
+                },
+                {
+                  "name": "JDownloader 2",
+                  "type": "url",
+                  "url": "https://jdownloader.org/"
+                },
+                {
+                  "name": "4K Video Downloader",
+                  "type": "url",
+                  "url": "https://www.4kdownload.com/products/product-videodownloader"
+                }
+              ]
+            },
+            {
+              "name": "Additional Safe Tools",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Xtreme Download Manager (XDM)",
+                  "type": "url",
+                  "url": "https://xtremedownloadmanager.com/"
+                },
+                {
+                  "name": "ClipGrab",
+                  "type": "url",
+                  "url": "https://clipgrab.org/"
+                },
+                {
+                  "name": "MediaHuman YouTube Downloader",
+                  "type": "url",
+                  "url": "https://www.mediahuman.com/youtube-downloader/"
+                },
+                {
+                  "name": "WinX YouTube Downloader",
+                  "type": "url",
+                  "url": "https://www.winxdvd.com/youtube-downloader/"
+                }
+              ]
+            },
+            {
+              "name": "Developer-Friendly Tools",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "pytube",
+                  "type": "url",
+                  "url": "https://github.com/pytube/pytube"
+                },
+                {
+                  "name": "gallery-dl",
+                  "type": "url",
+                  "url": "https://github.com/mikf/gallery-dl"
+                },
+                {
+                  "name": "streamlink",
+                  "type": "url",
+                  "url": "https://streamlink.github.io/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Android-Based",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Top Safe Apps",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Seal",
+                  "type": "url",
+                  "url": "https://github.com/JunkFood02/Seal"
+                },
+                {
+                  "name": "YTDlnis",
+                  "type": "url",
+                  "url": "https://ytdlnis.org/yt-dlp/"
+                },
+                {
+                  "name": "NewPipe",
+                  "type": "url",
+                  "url": "https://newpipe.net/"
+                },
+                {
+                  "name": "LibreTube",
+                  "type": "url",
+                  "url": "https://libretube.site/"
+                },
+                {
+                  "name": "PureTube",
+                  "type": "url",
+                  "url": "https://github.com/ZeroTwo-Bot/PureTube"
+                }
+              ]
+            },
+            {
+              "name": "Extra Tools",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "cobalt.tools (PWA)",
+                  "type": "url",
+                  "url": "https://cobalt.tools/"
+                },
+                {
+                  "name": "JetVideo Downloader",
+                  "type": "url",
+                  "url": "https://www.jetaudio.com/products/jetvideo/"
+                },
+                {
+                  "name": "Spotube (Music Only)",
+                  "type": "url",
+                  "url": "https://github.com/KRTirtho/spotube"
+                }
+              ]
+            },
+            {
+              "name": "Safe but Not Top-Tier",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "TubeMate (official APK)",
+                  "type": "url",
+                  "url": "https://www.tubemate.net/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "iOS-Based",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Best Options",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Aloha Browser",
+                  "type": "url",
+                  "url": "https://alohabrowser.com/"
+                },
+                {
+                  "name": "Documents by Readdle",
+                  "type": "url",
+                  "url": "https://readdle.com/documents"
+                }
+              ]
+            },
+            {
+              "name": "Additional Good Tools",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Total Files",
+                  "type": "url",
+                  "url": "https://apps.apple.com/app/total-files/id557157020"
+                },
+                {
+                  "name": "Bolt Browser",
+                  "type": "url",
+                  "url": "https://apps.apple.com/app/bolt-browser-and-documents/id1166260175"
+                },
+                {
+                  "name": "Browser Pro",
+                  "type": "url",
+                  "url": "https://apps.apple.com/app/browser-pro-file-manager/id557533701"
+                },
+                {
+                  "name": "iDownloader Plus",
+                  "type": "url",
+                  "url": "https://apps.apple.com/app/idownloader-pro-music-video/id552907053"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Web-Based (Online Tools)",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Top Tools",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "cobalt.tools",
+                  "type": "url",
+                  "url": "https://cobalt.tools/"
+                },
+                {
+                  "name": "Lucida",
+                  "type": "url",
+                  "url": "https://lucida.app/"
+                }
+              ]
+            },
+            {
+              "name": "Good Alternatives",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Loader.to",
+                  "type": "url",
+                  "url": "https://loader.to/"
+                },
+                {
+                  "name": "SnapSave",
+                  "type": "url",
+                  "url": "https://snapsave.app/"
+                },
+                {
+                  "name": "9Convert",
+                  "type": "url",
+                  "url": "https://9convert.com/"
+                }
+              ]
+            },
+            {
+              "name": "Safe but Ad-Heavy",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Y2Mate",
+                  "type": "url",
+                  "url": "https://www.y2mate.com/"
+                },
+                {
+                  "name": "SaveFrom",
+                  "type": "url",
+                  "url": "https://en.savefrom.net/"
+                },
+                {
+                  "name": "BitDownloader",
+                  "type": "url",
+                  "url": "https://bitdownloader.com/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "System Design & Software Architecture",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Grokking System Design",
+          "type": "url",
+          "url": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers"
+        },
+        {
+          "name": "ByteByteGo",
+          "type": "url",
+          "url": "https://bytebytego.com/"
+        },
+        {
+          "name": "System Design Primer (GitHub)",
+          "type": "url",
+          "url": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+          "name": "Architectural Patterns",
+          "type": "folder",
+          "children": [
+            {
+              "name": "CQRS Pattern",
+              "type": "url",
+              "url": "https://martinfowler.com/bliki/CQRS.html"
+            },
+            {
+              "name": "Event Sourcing",
+              "type": "url",
+              "url": "https://martinfowler.com/eaaDev/EventSourcing.html"
+            },
+            {
+              "name": "Clean Architecture",
+              "type": "url",
+              "url": "https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"
+            }
+          ]
+        },
+        {
+          "name": "Scalability Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "HAProxy",
+              "type": "url",
+              "url": "https://www.haproxy.org/"
+            },
+            {
+              "name": "Apache Kafka",
+              "type": "url",
+              "url": "https://kafka.apache.org/"
+            },
+            {
+              "name": "RabbitMQ",
+              "type": "url",
+              "url": "https://www.rabbitmq.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI Engineering & Production AI",
+      "type": "folder",
+      "children": [
+        {
+          "name": "LangChain",
+          "type": "url",
+          "url": "https://www.langchain.com/"
+        },
+        {
+          "name": "DSPy Cookbook",
+          "type": "url",
+          "url": "https://github.com/stanfordnlp/dspy"
+        },
+        {
+          "name": "LlamaIndex",
+          "type": "url",
+          "url": "https://www.llamaindex.ai/"
+        },
+        {
+          "name": "Ray + Ray Serve",
+          "type": "url",
+          "url": "https://docs.ray.io/en/latest/serve/index.html"
+        },
+        {
+          "name": "Modal",
+          "type": "url",
+          "url": "https://modal.com/"
+        },
+        {
+          "name": "BentoML",
+          "type": "url",
+          "url": "https://www.bentoml.com/"
+        },
+        {
+          "name": "Vector Databases",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Pinecone",
+              "type": "url",
+              "url": "https://www.pinecone.io/"
+            },
+            {
+              "name": "Weaviate",
+              "type": "url",
+              "url": "https://weaviate.io/"
+            },
+            {
+              "name": "ChromaDB",
+              "type": "url",
+              "url": "https://www.trychroma.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prompt Engineering & Agent Frameworks",
+      "type": "folder",
+      "children": [
+        {
+          "name": "OpenAI Cookbook",
+          "type": "url",
+          "url": "https://github.com/openai/openai-cookbook"
+        },
+        {
+          "name": "Prompt Engineering Guide",
+          "type": "url",
+          "url": "https://www.promptingguide.ai/"
+        },
+        {
+          "name": "Brex Prompt Library",
+          "type": "url",
+          "url": "https://github.com/brexhq/prompt-engineering"
+        },
+        {
+          "name": "Agent Frameworks",
+          "type": "folder",
+          "children": [
+            {
+              "name": "CrewAI",
+              "type": "url",
+              "url": "https://www.crewai.com/"
+            },
+            {
+              "name": "AutoGen",
+              "type": "url",
+              "url": "https://microsoft.github.io/autogen/"
+            },
+            {
+              "name": "LangGraph",
+              "type": "url",
+              "url": "https://langchain-ai.github.io/langgraph/"
+            },
+            {
+              "name": "DSPy Agentic Workflows",
+              "type": "url",
+              "url": "https://dspy-docs.vercel.app/agentic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity Careers & Certifications",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Certifications",
+          "type": "folder",
+          "children": [
+            {
+              "name": "CEH",
+              "type": "url",
+              "url": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+            },
+            {
+              "name": "OSCP",
+              "type": "url",
+              "url": "https://www.offsec.com/courses/pen-200/"
+            },
+            {
+              "name": "eLearnSecurity (eJPT/eWPT)",
+              "type": "url",
+              "url": "https://ine.com/cybersecurity"
+            },
+            {
+              "name": "CompTIA Security+",
+              "type": "url",
+              "url": "https://www.comptia.org/certifications/security"
+            }
+          ]
+        },
+        {
+          "name": "Career Roadmaps",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Red Team Roadmap",
+              "type": "url",
+              "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit"
+            },
+            {
+              "name": "Blue Team Roadmap",
+              "type": "url",
+              "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+            },
+            {
+              "name": "DFIR Roadmap",
+              "type": "url",
+              "url": "https://github.com/dfirtraining/DFIR-training"
+            },
+            {
+              "name": "Cloud Security Roadmap",
+              "type": "url",
+              "url": "https://github.com/kryptSec/cloud-security-learning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Airbyte",
+          "type": "url",
+          "url": "https://airbyte.com/"
+        },
+        {
+          "name": "dbt",
+          "type": "url",
+          "url": "https://www.getdbt.com/"
+        },
+        {
+          "name": "Snowflake",
+          "type": "url",
+          "url": "https://www.snowflake.com/"
+        },
+        {
+          "name": "BigQuery",
+          "type": "url",
+          "url": "https://cloud.google.com/bigquery"
+        },
+        {
+          "name": "Kafka Streams",
+          "type": "url",
+          "url": "https://kafka.apache.org/documentation/streams/"
+        },
+        {
+          "name": "Delta Lake",
+          "type": "url",
+          "url": "https://delta.io/"
+        },
+        {
+          "name": "Matillion",
+          "type": "url",
+          "url": "https://www.matillion.com/"
+        },
+        {
+          "name": "Fivetran",
+          "type": "url",
+          "url": "https://www.fivetran.com/"
+        }
+      ]
+    },
+    {
+      "name": "Hardware, Embedded & IoT",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ESP32",
+          "type": "url",
+          "url": "https://www.espressif.com/en/products/socs/esp32"
+        },
+        {
+          "name": "Arduino",
+          "type": "url",
+          "url": "https://www.arduino.cc/"
+        },
+        {
+          "name": "Raspberry Pi",
+          "type": "url",
+          "url": "https://www.raspberrypi.com/"
+        },
+        {
+          "name": "LoRaWAN",
+          "type": "url",
+          "url": "https://lora-alliance.org/about-lorawan/"
+        },
+        {
+          "name": "Zephyr RTOS",
+          "type": "url",
+          "url": "https://zephyrproject.org/"
+        },
+        {
+          "name": "MicroPython",
+          "type": "url",
+          "url": "https://micropython.org/"
+        },
+        {
+          "name": "KiCad",
+          "type": "url",
+          "url": "https://www.kicad.org/"
+        }
+      ]
+    },
+    {
+      "name": "Design & Creativity",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Canva",
+          "type": "url",
+          "url": "https://www.canva.com/"
+        },
+        {
+          "name": "Figma",
+          "type": "url",
+          "url": "https://www.figma.com/"
+        },
+        {
+          "name": "Excalidraw",
+          "type": "url",
+          "url": "https://excalidraw.com/"
+        },
+        {
+          "name": "draw.io Templates",
+          "type": "url",
+          "url": "https://app.diagrams.net/"
+        },
+        {
+          "name": "Adobe Express",
+          "type": "url",
+          "url": "https://www.adobe.com/express"
+        },
+        {
+          "name": "LottieFiles",
+          "type": "url",
+          "url": "https://lottiefiles.com/"
+        },
+        {
+          "name": "Blender",
+          "type": "url",
+          "url": "https://www.blender.org/"
+        }
+      ]
+    },
+    {
+      "name": "Productivity, Automation & Life OS",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Notion Templates",
+          "type": "url",
+          "url": "https://www.notion.so/templates"
+        },
+        {
+          "name": "Obsidian",
+          "type": "url",
+          "url": "https://obsidian.md/"
+        },
+        {
+          "name": "Raycast",
+          "type": "url",
+          "url": "https://www.raycast.com/"
+        },
+        {
+          "name": "Flow Launcher",
+          "type": "url",
+          "url": "https://www.flowlauncher.com/"
+        },
+        {
+          "name": "IFTTT Automations",
+          "type": "url",
+          "url": "https://ifttt.com/"
+        },
+        {
+          "name": "TickTick",
+          "type": "url",
+          "url": "https://www.ticktick.com/"
+        },
+        {
+          "name": "Todoist",
+          "type": "url",
+          "url": "https://todoist.com/"
+        }
+      ]
+    },
+    {
+      "name": "Career, Salary & Industry Research",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Levels.fyi",
+          "type": "url",
+          "url": "https://levels.fyi/"
+        },
+        {
+          "name": "Glassdoor",
+          "type": "url",
+          "url": "https://www.glassdoor.com/"
+        },
+        {
+          "name": "Indeed Salaries",
+          "type": "url",
+          "url": "https://www.indeed.com/career/salaries"
+        },
+        {
+          "name": "TeamBlind",
+          "type": "url",
+          "url": "https://www.teamblind.com/"
+        },
+        {
+          "name": "YC Startup Directory",
+          "type": "url",
+          "url": "https://www.ycombinator.com/companies"
+        },
+        {
+          "name": "Tech Interview Handbook",
+          "type": "url",
+          "url": "https://www.techinterviewhandbook.org/"
+        },
+        {
+          "name": "LeetCode",
+          "type": "url",
+          "url": "https://leetcode.com/"
+        },
+        {
+          "name": "NeetCode",
+          "type": "url",
+          "url": "https://neetcode.io/"
+        }
+      ]
+    },
+    {
+      "name": "Finance & Investing",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Zerodha Varsity",
+          "type": "url",
+          "url": "https://zerodha.com/varsity/"
+        },
+        {
+          "name": "TradingView",
+          "type": "url",
+          "url": "https://www.tradingview.com/"
+        },
+        {
+          "name": "Portfolio Visualizer",
+          "type": "url",
+          "url": "https://www.portfoliovisualizer.com/"
+        },
+        {
+          "name": "CoinMarketCap",
+          "type": "url",
+          "url": "https://coinmarketcap.com/"
+        },
+        {
+          "name": "Smallcase",
+          "type": "url",
+          "url": "https://www.smallcase.com/"
+        },
+        {
+          "name": "Value Research Online",
+          "type": "url",
+          "url": "https://www.valueresearchonline.com/"
+        }
+      ]
+    },
+    {
+      "name": "Mental Health & Deep Work",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Headspace",
+          "type": "url",
+          "url": "https://www.headspace.com/"
+        },
+        {
+          "name": "Calm",
+          "type": "url",
+          "url": "https://www.calm.com/"
+        },
+        {
+          "name": "Forest App",
+          "type": "url",
+          "url": "https://www.forestapp.cc/"
+        },
+        {
+          "name": "Noisli",
+          "type": "url",
+          "url": "https://www.noisli.com/"
+        },
+        {
+          "name": "Habitica",
+          "type": "url",
+          "url": "https://habitica.com/"
+        },
+        {
+          "name": "Streaks",
+          "type": "url",
+          "url": "https://streaksapp.com/"
+        },
+        {
+          "name": "Pomodoro Timers",
+          "type": "url",
+          "url": "https://pomofocus.io/"
+        },
+        {
+          "name": "SleepCycle",
+          "type": "url",
+          "url": "https://www.sleepcycle.com/"
+        }
+      ]
+    },
+    {
+      "name": "Writing & Thesis Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Grammarly",
+          "type": "url",
+          "url": "https://www.grammarly.com/"
+        },
+        {
+          "name": "Hemingway Editor",
+          "type": "url",
+          "url": "https://hemingwayapp.com/"
+        },
+        {
+          "name": "QuillBot",
+          "type": "url",
+          "url": "https://quillbot.com/"
+        },
+        {
+          "name": "Overleaf Templates",
+          "type": "url",
+          "url": "https://www.overleaf.com/latex/templates"
+        },
+        {
+          "name": "Zotero Plugins",
+          "type": "url",
+          "url": "https://www.zotero.org/support/plugins"
+        }
+      ]
+    },
+    {
+      "name": "Entrepreneurship & Startup Builders",
+      "type": "folder",
+      "children": [
+        {
+          "name": "YC Startup School",
+          "type": "url",
+          "url": "https://www.startupschool.org/"
+        },
+        {
+          "name": "Indie Hackers",
+          "type": "url",
+          "url": "https://www.indiehackers.com/"
+        },
+        {
+          "name": "Product Hunt Launch Kit",
+          "type": "url",
+          "url": "https://www.producthunt.com/launch-guide"
+        },
+        {
+          "name": "Tally Forms",
+          "type": "url",
+          "url": "https://tally.so/"
+        },
+        {
+          "name": "Supabase",
+          "type": "url",
+          "url": "https://supabase.com/"
+        },
+        {
+          "name": "Stripe Atlas",
+          "type": "url",
+          "url": "https://stripe.com/atlas"
+        },
+        {
+          "name": "Paddle",
+          "type": "url",
+          "url": "https://www.paddle.com/"
+        }
+      ]
+    },
+    {
+      "name": "API, Web-Scraping & Automation",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Selenium",
+          "type": "url",
+          "url": "https://www.selenium.dev/"
+        },
+        {
+          "name": "Playwright",
+          "type": "url",
+          "url": "https://playwright.dev/"
+        },
+        {
+          "name": "BeautifulSoup",
+          "type": "url",
+          "url": "https://www.crummy.com/software/BeautifulSoup/"
+        },
+        {
+          "name": "Scrapy",
+          "type": "url",
+          "url": "https://scrapy.org/"
+        },
+        {
+          "name": "Browserless API",
+          "type": "url",
+          "url": "https://www.browserless.io/"
+        },
+        {
+          "name": "Puppeteer",
+          "type": "url",
+          "url": "https://pptr.dev/"
+        },
+        {
+          "name": "Postman Collections",
+          "type": "url",
+          "url": "https://learning.postman.com/docs/designing-and-developing-your-api/collections/"
+        }
+      ]
+    },
+    {
+      "name": "Specialized AI Domains",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Graph Neural Networks",
+          "type": "url",
+          "url": "https://github.com/thunlp/GNNPapers"
+        },
+        {
+          "name": "Time-series ML (GluonTS)",
+          "type": "url",
+          "url": "https://ts.gluon.ai/stable/"
+        },
+        {
+          "name": "Time-series ML (Kats)",
+          "type": "url",
+          "url": "https://github.com/facebookresearch/Kats"
+        },
+        {
+          "name": "Time-series ML (Nixtla)",
+          "type": "url",
+          "url": "https://nixtla.io/"
+        },
+        {
+          "name": "Speech & Audio Models",
+          "type": "url",
+          "url": "https://github.com/openai/whisper"
+        },
+        {
+          "name": "Vision-Language Models",
+          "type": "url",
+          "url": "https://github.com/microsoft/Florence-2"
+        },
+        {
+          "name": "Retrieval Engineering",
+          "type": "url",
+          "url": "https://github.com/explodinggradients/ragas"
+        }
+      ]
+    }
+  ]
+}
