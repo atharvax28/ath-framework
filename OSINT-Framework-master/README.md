@@ -1,28 +1,16 @@
-# ATH Framework Monorepo
+# ATH Framework
 
-This repository now hosts the ATH Framework source (`ath-framework/`) and the GitHub Pages build artifacts (`docs/`). It replaces the legacy OSINT Framework files entirely.
+This repository is a simple two-part layout for the ATH Framework site:
 
-## Project layout
+- `ath-framework/` – editable source for the site. It contains the npm project, the `public/` assets (HTML/CSS/JS/data), and scripts for copying the build output into the Pages folder.
+- `docs/` – the static files that get published via GitHub Pages. Running `npm run build` from `ath-framework/` refreshes everything inside this directory, including the `.nojekyll` marker so GitHub serves the files without Jekyll processing.
+- `LICENSE` – licensing information for the project.
 
-- `ath-framework/` – editable source (Node tooling, `public/`, data, scripts)
-- `docs/` – static site generated via `npm run build`; served by GitHub Pages
+## Updating the site
+1. `cd ath-framework`
+2. `npm install`
+3. Edit any files under `public/` (for example `public/data.json` to change the tree data or `public/css/arf.css` to adjust styles).
+4. Run `npm run build` – this copies the current `public/` contents into the top-level `docs/` directory so it is ready for deployment.
+5. Commit both `ath-framework/` and `docs/` changes and push.
 
-## Quick start
-
-```bash
-git clone https://github.com/atharvax28/ath-framework.git
-cd ath-framework/ath-framework
-npm install
-npm start   # http://localhost:8000
-```
-
-Update `public/data.json`, run `npm run build` to refresh `docs/`, then commit both directories.
-
-## Deploying to GitHub Pages
-
-1. From `ath-framework/ath-framework`, run `npm run build`.
-2. Commit the updated `docs/` directory from the repo root.
-3. In GitHub → **Settings → Pages**, select `main` / `docs`.
-
-Your site will be available at `https://atharvax28.github.io/ath-framework/`.
-
+The repo intentionally keeps the generated `docs/` directory in version control so GitHub Pages can deploy straight from the `docs` folder with no extra tooling.
