@@ -16,3 +16,4 @@ The GitHub Actions workflow in `.github/workflows/deploy.yml` now follows GitHub
 5. Commit both `ath-framework/` and `docs/` changes and push.
 
 > The repo intentionally keeps the generated `docs/` directory in version control so you can preview the static files locally, but production deployments are handled by the workflow which publishes the exact same files to the Pages site.
+The repo intentionally keeps the generated `docs/` directory in version control so GitHub Pages can deploy straight from the `docs` folder with no extra tooling.
