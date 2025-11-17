@@ -4,9 +4,9 @@
   "description": "ATH Framework - Interactive tree visualization for your curated resources",
   "main": "public/index.html",
   "scripts": {
-    "postinstall": "copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
+    "postinstall": "node ./node_modules/copyfiles/copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
     "start": "cd public && python -m http.server 8000",
-    "build": "copyfiles -u 1 \"public/**/*\" ../docs"
+    "build": "node ./node_modules/copyfiles/copyfiles -a -u 1 \"public/**/*\" ../docs"
   },
   "author": "",
   "license": "MIT",
