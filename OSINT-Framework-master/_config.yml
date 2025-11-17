@@ -1,0 +1,6 @@
+title: ATH Framework
+source: docs
+theme: jekyll-theme-primer
+description: >-
+  Static documentation site for browsing curated resources. Built from the docs directory so
+  only published assets are processed during the GitHub Pages build.
