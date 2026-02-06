@@ -1,0 +1,69 @@
+# Vercel Web Analytics Implementation
+
+## Summary
+Successfully implemented Vercel Web Analytics for the ATH Framework project following the HTML integration guidelines.
+
+## Changes Made
+
+### 1. Added Analytics Script to HTML Files
+Modified both source and production HTML files to include the Vercel Web Analytics tracking script:
+
+**Files Modified:**
+- `ath-framework/public/index.html` - Source HTML file
+- `docs/index.html` - Production HTML file (GitHub Pages deployment)
+
+**Script Added:**
+```html
+<script>
+  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
+```
+
+This script was added in the `<head>` section of both HTML files, just before the closing `</head>` tag, following the Vercel Web Analytics documentation for plain HTML sites.
+
+### 2. Installed Dependencies
+- Ran `npm install` in the `ath-framework` directory
+- The `@vercel/analytics` package (version ^1.2.2) was already listed in package.json and is now properly installed
+- Updated `package-lock.json` to reflect the installed @vercel/analytics package
+
+### 3. Built the Project
+- Ran `npm run build` to copy the updated HTML files from `public/` to `docs/` folder
+- This ensures the GitHub Pages deployment will have the analytics tracking enabled
+
+## Implementation Details
+
+For this plain HTML project, the analytics implementation follows the HTML-specific guidelines from the Vercel documentation:
+- No need to install React/Next.js/Vue components
+- No route support (as this is a static HTML site)
+- Analytics will start tracking once the site is deployed to Vercel
+
+## How It Works
+
+Once deployed to Vercel:
+1. The inline script initializes the `window.va` function queue
+2. The deferred script loads from `/_vercel/insights/script.js`
+3. Visitors and page views will be automatically tracked
+4. Data can be viewed in the Vercel dashboard under the Analytics tab
+
+## Testing
+
+To verify the implementation:
+1. Deploy the site to Vercel
+2. Visit the site in a browser
+3. Open browser DevTools Network tab
+4. Look for a request to `/_vercel/insights/view`
+5. View analytics data in the Vercel dashboard
+
+## Files Staged for Commit
+
+- `ath-framework/public/index.html` - Added analytics scripts
+- `docs/index.html` - Added analytics scripts (production build)
+- `ath-framework/package-lock.json` - Updated with @vercel/analytics dependency
+
+## Notes
+
+- The project already had `@vercel/analytics` in package.json, so only installation was needed
+- The HTML implementation is the appropriate choice for this static D3.js visualization project
+- No route tracking is available with the HTML implementation, which is acceptable for a single-page application
+- The implementation preserves all existing code structure and functionality
