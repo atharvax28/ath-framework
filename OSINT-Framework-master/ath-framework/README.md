@@ -86,6 +86,23 @@ Edit the `public/data.json` file to customize the tree. The structure follows th
 3. **Layout/behaviour**: Update `public/js/arf.js` for spacing, animation, or new interactions.
 4. **Data**: Keep `"type": "folder"` for nested categories and `"type": "url"` for leaves, each with a `url`.
 
+## Analytics (Vercel)
+
+If you wrap this project in a Next.js shell, render the `VercelAnalytics` component from
+`public/js/VercelAnalytics.jsx` in your root layout to enable Vercel Analytics.
+
+```jsx
+import VercelAnalytics from "./public/js/VercelAnalytics";
+```
+
+## Deploy
+
+Use the build script to copy assets into the `docs/` folder for GitHub Pages.
+
+```bash
+npm run build
+```
+
 ## Directory layout
 
 ```
@@ -110,5 +127,4 @@ ath-framework/
 - Dark mode can be toggled using the button in the top right
 
 Enjoy organizing your ATH resources!
-
 

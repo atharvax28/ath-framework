@@ -10,9 +10,11 @@
   },
   "author": "",
   "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.2.2"
+  },
   "devDependencies": {
     "copyfiles": "^1.0.0",
     "d3": "^3.5.16"
   }
 }
-
